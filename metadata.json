@@ -1,0 +1,6 @@
+{
+  "name": "Asam FX Portfolio",
+  "description": "Premium luxury portfolio website for professional Forex trader Asam FX, featuring real-time market data widgets, trading statistics, interactive timeline, and luxury dark gold aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
